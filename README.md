@@ -21,6 +21,7 @@
 - Book: [Interactive Dashboards and Data Apps with Plotly and Dash](https://www.amazon.com/dp/B08XMW45VY)
 - [`dash-aggrid-scales`](https://dash-aggrid-scales.com/): Python package for applying color scales to AgGrid tables
 - [adver.tools](https://adver.tools/): No-code interactive apps for SEO, SEM, and digital marketing
+- [LearnPlotly.com](https://learnplotly.com/): Plotly express fully interactive, all charts, all function parameters, no code
 
 
 ## 📈 GitHub Stats
