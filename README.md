@@ -3,9 +3,9 @@
 
 ## About
 
-- `advertools`
-- `adviz`
-- `functionalytics`
+- [`advertools`](https://github.com/eliasdabbas/advertools)
+- [`adviz`](https://github.com/eliasdabbas/adviz)
+- [`functionalytics`](https://github.com/eliasdabbas/functionalytics)
 - [`dash-ai-chat`](https://github.com/eliasdabbas/dash-ai-chat)
 - Data Science
 - Data Visualization
