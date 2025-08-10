@@ -6,6 +6,7 @@
 - `advertools`
 - `adviz`
 - `functionalytics`
+- [`dash-ai-chat`](https://github.com/eliasdabbas/dash-ai-chat)
 - Data Science
 - Data Visualization
 - Python
